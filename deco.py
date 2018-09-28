@@ -18,7 +18,7 @@ if __name__=="__main__":
 	k=test(22)
 	print(k)
 	print("The second repair")
-
+	print("The third repair")
 
 
 	

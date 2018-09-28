@@ -2,5 +2,8 @@ wo men shi yige hen hao de ren .
 
 
 
+print("******************")
+
+
 
 zhe shi di yi ci print 
